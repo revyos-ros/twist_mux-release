@@ -1,3 +1,26 @@
+## twist_mux (jazzy) - 4.3.0-4
+
+The packages in the `twist_mux` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy twist_mux --override-release-repository-push-url git@github.com:revyos-ros/twist_mux-release` on `Tue, 25 Jun 2024 05:31:01 -0000`
+
+The `twist_mux` package was released.
+
+Version of package(s) in repository `twist_mux`:
+
+- upstream repository: https://github.com/ros-teleop/twist_mux.git
+- release repository: https://github.com/revyos-ros/twist_mux-release.git
+- rosdistro version: `4.3.0-3`
+- old version: `4.3.0-3`
+- new version: `4.3.0-4`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## twist_mux (humble) - 4.3.0-1
 
 The packages in the `twist_mux` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble twist_mux` on `Sat, 11 Nov 2023 14:34:40 -0000`
